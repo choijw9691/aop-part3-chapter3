@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
             // 알람을 취소함
             pendingIntent.cancel()
         }
-
+//j
         renderView(model)
 
     }
